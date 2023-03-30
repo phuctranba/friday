@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "6838829297",
+    "project_id": "ai-chat-cab85",
+    "storage_bucket": "ai-chat-cab85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6838829297:android:5561be01efe1e8f3036950",
+        "android_client_info": {
+          "package_name": "com.iceo.aichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6838829297-0dj8mcp2vu01tnvae8qp0ack0p61p8ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iceo.aichat",
+            "certificate_hash": "cbb033026be41ab51bca83bdadff7bfb48a9ef11"
+          }
+        },
+        {
+          "client_id": "6838829297-8jo0pqs8n61qrf1pntk6i8fhdhdgo17q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iceo.aichat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "6838829297-4q388tv32fq0qte68am225d82pmj3mu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwtvFQApZFY6vZzVhUqSj7G8r3s7njEBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6838829297-4q388tv32fq0qte68am225d82pmj3mu1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6838829297-8ltlh9cp1gr3ojr0ll6ufs58fu5klohn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iceo.aichat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
